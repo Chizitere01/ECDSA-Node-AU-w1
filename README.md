@@ -1,4 +1,3 @@
-# ECDSA-Node-AU-w1
 # ECDSA Node
 
 This project is an assignment for Week 1 of the Ethereum Development Bootcamp at Alchemy University. The goal is to gain a deeper understanding of blockchain development by building a simple system that incorporates Public Key Cryptography to securely transfer funds between accounts.
